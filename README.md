@@ -4,7 +4,7 @@ This server is a Java & Bedrock crossplay server.
 
 **About**
 
-A survival multiplayer (SMP) game that Bedrock and Java edition players can communicate with each other.
+A survival multiplayer (SMP) cracked server that Bedrock and Java edition players can communicate with each other.
 
 **Steps**
 
