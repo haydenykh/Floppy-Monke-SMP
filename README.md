@@ -15,10 +15,6 @@ https://aternos.org/
 
 https://geysermc.org/
 
-# What to do after joining?
-
-You need to earn trust between staffs/admins by pvp-ing in the Minecraft server. After earning your trust, you can gather resources and materials to get a shelter. There will be a starter kit near the spawn. You can break the chest once to get full enchanted diamond armor. To get the armor netherited, you need to get ancient debris from the nether and use a smithing table to make it netherited.
-
 # Rules
 
 1. Do not grief
@@ -28,6 +24,13 @@ You need to earn trust between staffs/admins by pvp-ing in the Minecraft server.
 
 # Discord Server Link
 https://discord.gg/6manBTHUy9
+
+# FAQ (Frequently Asked Questions)
+### What to do after joining?
+You need to earn trust between staffs/admins by pvp-ing in the Minecraft server. After earning your trust, you can gather resources and materials to get a shelter. There will be a starter kit near the spawn. You can break the chest once to get full enchanted diamond armor. To get the armor netherited, you need to get ancient debris from the nether and use a smithing table to make it netherited.
+
+### What to do to join the Discord Server.
+You must provide your irl (in real life) name and your Minecraft username and the Minecraft edition your playing on. 
 
 ---
 
