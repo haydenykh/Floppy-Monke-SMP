@@ -25,6 +25,7 @@ You need to earn trust between staffs/admins by pvp-ing. After earning your trus
 1. Do not grief
 2. Do not trade with others
 3. Do not destroy other houses
+4. Do not exploit or hack
 
 ---
 
@@ -35,6 +36,7 @@ Minecraft Version: `1.17.1`
 Server Name: `Floppy Monke SMP`
 
 Server Address: `FLOPPY_MONKESMP.aternos.me:39047`
+
 
 
 **Bedrock**
