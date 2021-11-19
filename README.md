@@ -36,6 +36,9 @@ Yes, you can. This server used the GeyserMC plugin in able to make Bedrock playe
 ### Can I give more suggestions to this server? 
 Yes, of course you can. Giving more suggestions to this server is a great thing. For example, build more houses, more minigames and more. 
 
+---
+
+# Minecraft Edition
 ### Java
 
 Minecraft Version: `1.17.1`
