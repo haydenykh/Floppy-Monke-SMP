@@ -43,12 +43,17 @@ Acutally, **no**. It is because that if **too many members** joined, it will eit
 
 # Minecraft Edition
 ### Java
-Minecraft Version: `1.17.1`\n
-Server Name: `Floppy Monke SMP`\n
-Server Address: `FLOPPY_MONKESMP.aternos.me:39047`\n
+Minecraft Version: `1.17.1`
+
+Server Name: `Floppy Monke SMP`
+
+Server Address: `FLOPPY_MONKESMP.aternos.me:39047`
 
 ### Bedrock
-Minecraft Version: `1.17.41`\n
-Server Name: `Floppy Monke SMP`\n
-Server Address: `FLOPPY_MONKESMP.aternos.me`\n
-Port: `39047`\n
+Minecraft Version: `1.17.41`
+
+Server Name: `Floppy Monke SMP`
+
+Server Address: `FLOPPY_MONKESMP.aternos.me`
+
+Port: `39047`
