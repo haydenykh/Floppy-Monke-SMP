@@ -1,21 +1,21 @@
-# Description
+<h1><center>Description</center></h1>
 
 This server is a Java & Bedrock crossplay server.
 
-# About
+<h1><center>About</center></h1>
 
 A survival multiplayer (SMP) cracked server that Bedrock and Java edition players can communicate with each other.
 
-# Steps
+<h1><center>Steps</center></h1>
 
 To join the server, you need to have the correct version of Minecraft and a specific port and server address.
 
-# Credits
+<h1><center>Credits</center></h1>
 https://aternos.org/
 
 https://geysermc.org/
 
-# Rules
+<h1><center>Rules</center></h1>
 
 1. Do not grief
 2. Do not trade with others
@@ -23,10 +23,10 @@ https://geysermc.org/
 4. Do not exploit or hacks
 5. No burning
 
-# Discord Server Link
+<h1><center>Discord Server Link</center></h1>
 https://discord.gg/6manBTHUy9
 
-# FAQ (Frequently Asked Questions)
+<h1><center>FAQ (Frequently Asked Questions)</center></h1>
 > What to do after joining?
 
 You need to earn trust between staffs/admins by pvp-ing in the Minecraft server. After earning your trust, you can gather resources and materials to get a shelter. There will be a starter kit near the spawn. You can break the chest once to get full enchanted diamond armor. To get the armor netherited, you need to get ancient debris from the nether and use a smithing table to make it netherited.
@@ -45,7 +45,7 @@ Acutally, no. It is because that if too many members joined, it will either cras
 
 ---
 
-# Minecraft Edition
+<h1><center>Minecraft Edition</center></h1>
 ### Java
 
 Minecraft Version: `1.17.1`
