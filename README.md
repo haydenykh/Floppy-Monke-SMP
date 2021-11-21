@@ -27,14 +27,14 @@ https://geysermc.org/
 https://discord.gg/6manBTHUy9
 
 # FAQ (Frequently Asked Questions)
-### What to do after joining?
+> What to do after joining?
 You need to earn trust between staffs/admins by pvp-ing in the Minecraft server. After earning your trust, you can gather resources and materials to get a shelter. There will be a starter kit near the spawn. You can break the chest once to get full enchanted diamond armor. To get the armor netherited, you need to get ancient debris from the nether and use a smithing table to make it netherited.
-### What to do to join the Discord Server.
+> What to do to join the Discord Server.
 You must provide your irl (in real life) name and your Minecraft username and the Minecraft edition your playing on. 
-### Can I join on Bedrock edition? 
+> Can I join on Bedrock edition? 
 Yes, you can. This server used the GeyserMC plugin in able to make Bedrock players play on Java servers. 
-### Can I give more suggestions to this server? 
-Yes, of course you can. Giving more suggestions to this server is a great thing. For example, build more houses, more minigames and more. 
+> Can I invite more members to this server?
+Acutally, no. It is because that if too many members joined, it will either crashed the server or spamming in the chat.
 
 ---
 
