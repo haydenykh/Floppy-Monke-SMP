@@ -1,51 +1,54 @@
-<h1><center>Description</center></h1>
+# Description
 
 This server is a Java & Bedrock crossplay server.
 
-<h1><center>About</center></h1>
+# About
 
 A survival multiplayer (SMP) cracked server that Bedrock and Java edition players can communicate with each other.
 
-<h1><center>Steps</center></h1>
+# Steps
 
 To join the server, you need to have the correct version of Minecraft and a specific port and server address.
 
-<h1><center>Credits</center></h1>
+# Credits
 https://aternos.org/
 
 https://geysermc.org/
 
-<h1><center>Rules</center></h1>
+# Rules
 
-1. Do not grief
-2. Do not trade with others
-3. Do not destroy other houses
-4. Do not exploit or hacks
-5. No burning
+**1.** Do not grief
+**2.** Do not trade with others
+**3.** Do not destroy other houses
+**4.** Do not exploit or hacks
+**5.** No burning
 
-<h1><center>Discord Server Link</center></h1>
+# Discord Server Invitation Link
+
 https://discord.gg/6manBTHUy9
 
-<h1><center>FAQ (Frequently Asked Questions)</center></h1>
+# FAQ (Frequently Asked Questions)
+
 > What to do after joining?
 
-You need to earn trust between staffs/admins by pvp-ing in the Minecraft server. After earning your trust, you can gather resources and materials to get a shelter. There will be a starter kit near the spawn. You can break the chest once to get full enchanted diamond armor. To get the armor netherited, you need to get ancient debris from the nether and use a smithing table to make it netherited.
+You need to earn **trust** between **staffs/admins** by pvp-ing in the **Minecraft Server**. After earning your **trust**, you can gather **resources** and **materials** to get a **shelter**. There will be a **starter kit** near the **spawn**. You can break the **chest** once to get **full enchanted diamond armor**. To get the armor **netherited**, you need to get **ancient debris** from the **nether** and use a **smithing table** to make it **netherited**.
 
 > What to do to join the Discord Server.
 
-You must provide your irl (in real life) name and your Minecraft username and the Minecraft edition your playing on. 
+You must provide your **irl (in real life) name** and your **Minecraft Username** and the **Minecraft Edition** your playing on. 
 
 > Can I join on Bedrock edition? 
 
-Yes, you can. This server used the GeyserMC plugin in able to make Bedrock players play on Java servers. 
+**Yes**, you can. This server used the **GeyserMC Plugin** in able to make **Bedrock Players** play on **Java Servers**. 
 
 > Can I invite more members to this server?
 
-Acutally, no. It is because that if too many members joined, it will either crashed the server or spamming in the chat.
+Acutally, **no**. It is because that if **too many members** joined, it will either **crashed the server** or **spamming in the chat**.
 
 ---
 
-<h1><center>Minecraft Edition</center></h1>
+# Minecraft Edition
+
 ### Java
 
 Minecraft Version: `1.17.1`
