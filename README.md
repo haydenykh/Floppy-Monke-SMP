@@ -37,7 +37,7 @@ You must provide your **irl (in real life) name** and your **Minecraft Username*
 
 > Can I invite more members to this server?
 
-Acutally, **no**. It is because that if **too many members** joined, it will either **crashed the server** or **spamming in the chat**.
+Acutally, **no**.
 
 ---
 
