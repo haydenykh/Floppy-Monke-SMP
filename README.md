@@ -33,7 +33,7 @@ https://geysermc.org/
 
 ---
 
-# [^1] Discord Server Invitation Link
+# Discord Server Invitation Link
 https://discord.gg/6manBTHUy9
 
 ---
@@ -58,7 +58,7 @@ Acutally, **no**. More members either might crash the server or spamming in the 
 ---
 # End
 That's all for now.
-If you wanna ask more questions, go join our discord server! [^1]
+If you wanna ask more questions, go join our discord server!
 
 ---
 
