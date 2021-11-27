@@ -33,7 +33,7 @@ https://geysermc.org/
 
 ---
 
-# Discord Server Invitation Link
+# [^1] Discord Server Invitation Link
 https://discord.gg/6manBTHUy9
 
 ---
@@ -41,7 +41,7 @@ https://discord.gg/6manBTHUy9
 # FAQ (Frequently Asked Questions)
 > What to do after joining?
 
-You need to earn **trust** between **staffs/admins** by pvp-ing in the **Minecraft Server**. After earning your **trust**, you can gather **resources** and **materials** to get a **shelter**. There will be a **starter kit** near the **spawn**. You can break the **chest** once to get **full enchanted diamond armor**. To get the armor **netherited**, you need to get **ancient debris** from the **nether** and use a **smithing table** to make it **netherited**.
+You need to earn **trust** between **staffs/admins** by pvp-ing in the **Minecraft Server**. After earning your **trust**, you can gather **resources** and **materials** to get a **shelter** and **tools**/**gears**.
 
 > What to do to join the Discord Server.
 
@@ -54,6 +54,11 @@ You must provide your **irl (in real life) name** and your **Minecraft Username*
 > Can I invite more members to this server?
 
 Acutally, **no**. More members either might crash the server or spamming in the chat.
+
+---
+# End
+That's all for now.
+If you wanna ask more questions, go join our discord server! [^1]
 
 ---
 
