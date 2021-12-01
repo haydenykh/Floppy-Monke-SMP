@@ -39,9 +39,6 @@ https://discord.gg/6manBTHUy9
 ---
 
 # FAQ (Frequently Asked Questions)
-> What to do after joining?
-
-You need to earn **trust** between **staffs/admins** by pvp-ing in the **Minecraft Server**. After earning your **trust**, you can gather **resources** and **materials** to get a **shelter** and **tools**/**gears**.
 
 > What to do to join the Discord Server.
 
