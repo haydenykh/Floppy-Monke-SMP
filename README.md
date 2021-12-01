@@ -64,14 +64,14 @@ If you wanna ask more questions, go join our discord server!
 
 # Minecraft Edition
 ### Java
-Minecraft Version: `1.17.1`
+Minecraft Version: `1.18`
 
 Server Name: `Floppy Monke SMP`
 
 Server Address: `FLOPPY_MONKESMP.aternos.me:39047`
 
 ### Bedrock
-Minecraft Version: `1.17.41`
+Minecraft Version: `1.18.0`
 
 Server Name: `Floppy Monke SMP`
 
