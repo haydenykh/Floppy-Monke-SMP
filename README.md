@@ -75,3 +75,5 @@ Server Name: `Floppy Monke SMP`
 Server Address: `FLOPPY_MONKESMP.aternos.me`
 
 Port: `39047`
+
+> Bedrock's Floppy Model Totem Not Avaliable Yet
