@@ -68,7 +68,7 @@ Server Name: `Floppy Monke SMP`
 Server Address: `FLOPPY_MONKESMP.aternos.me:39047`
 
 ### Bedrock
-Minecraft Version: `1.18.0`
+Minecraft Version: `1.18.20`
 
 Server Name: `Floppy Monke SMP`
 
@@ -76,4 +76,4 @@ Server Address: `FLOPPY_MONKESMP.aternos.me`
 
 Port: `39047`
 
-> Bedrock's Floppy Model Totem Not Avaliable Yet
+<center>Bedrock's Floppy Model Totem Not Avaliable Yet</center>
