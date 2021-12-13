@@ -61,7 +61,8 @@ If you wanna ask more questions, go join our discord server!
 
 # Minecraft Edition
 ### Java
-Minecraft Version: `1.18`
+Minecraft Version: `1.18.1`
+`1.8 - 1.18.1 (Texture will not load for version under 1.17)` 
 
 Server Name: `Floppy Monke SMP`
 
@@ -75,5 +76,4 @@ Server Name: `Floppy Monke SMP`
 Server Address: `FLOPPY_MONKESMP.aternos.me`
 
 Port: `39047`
-
-<center>Bedrock's Floppy Model Totem Not Avaliable Yet</center>
+`Bedrock's Floppy Model Totem Not Avaliable Yet`
