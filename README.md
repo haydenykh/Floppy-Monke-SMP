@@ -50,7 +50,7 @@ You must provide your **irl (in real life) name** and your **Minecraft Username*
 
 > Can I invite more members to this server?
 
-Acutally, **no**. More members either might crash the server or spamming in the chat.
+**No**. More members might either crash the server or spamming in the chat. Which let the server lag and an error message. 
 
 ---
 # End
@@ -62,7 +62,6 @@ If you wanna ask more questions, go join our discord server!
 # Minecraft Edition
 ### Java
 Minecraft Version: `1.18.1`
-`1.8 - 1.18.1 (Texture will not load for version under 1.17)` 
 
 Server Name: `Floppy Monke SMP`
 
