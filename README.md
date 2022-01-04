@@ -14,9 +14,9 @@ To join the server, you need to have the correct version of Minecraft and a spec
 ---
 
 # Credits
-https://aternos.org/
+Powered by https://aternos.org/
 
-https://geysermc.org/
+Geyser Proxy https://geysermc.org/
 
 ---
 
