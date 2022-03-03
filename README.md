@@ -61,7 +61,7 @@ If you wanna ask more questions, go join our discord server!
 
 # Minecraft Edition
 ### Java
-Minecraft Version: `1.18.1`
+Minecraft Version: `1.18.2`
 
 Server Name: `Floppy Monke SMP`
 
